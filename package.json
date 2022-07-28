@@ -9,7 +9,7 @@
     "dev": "nodemon -e ts -w . -x ts-node ./src/index"
   },
   "keywords": [],
-  "author": "Julien Leon:wq R. Lenne",
+  "author": "Julien Leon R. Lenne",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.1",
