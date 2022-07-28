@@ -1,6 +1,6 @@
 # Minimal StarterKit with Express, Typescript
 A simple as possible Express server with typescript,
-Hot reloading and code linting/formating
+Hot reloading and code linting/formatting
 
 ## Getting Started
 
